@@ -100,4 +100,5 @@ int main(){
         }
     }
     while(opt!=7);
+    return 0;
 }
